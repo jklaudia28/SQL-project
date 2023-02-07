@@ -44,7 +44,7 @@ Raport zawiera następujące widoki:
 
 •	Funkcja sprawdzająca, w której sali ma zajęcia dana grupa
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Przykładowy constraint: 
 
