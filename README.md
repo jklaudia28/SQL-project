@@ -45,8 +45,11 @@ Raport zawiera następujące widoki:
 •	Funkcja sprawdzająca, w której sali ma zajęcia dana grupa
 
 
+
 Przykładowy constraint: 
+
 Można dodać dziecko, które ma co najmniej 5 miesięcy i maksymalnie 36 miesięcy.
+
 
 alter table Dane_Dziecka
 add constraint CW_Wiek
